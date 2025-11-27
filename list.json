@@ -10,12 +10,12 @@
           "url": "https://github.com/GSQStudio/acs1_mod_thailandlanguage"
      },
      {
-          "name": "Open All Fog",
+          "name": "Open All Fog | เปิดหมอก",
           "label": "Usability",
           "url": "https://github.com/satosiki108/acs_open_all_fog"
      },
      {
-          "name": "Increased Stacking Limit",
+          "name": "Increased Stacking Limit | เก็บของสูงสุด 9999",
           "label": "Usability",
           "url": "https://github.com/satosiki108/acs_Increased_stacking_limit"
      },
@@ -90,7 +90,7 @@
           "url": "https://github.com/kamalvnda/indonesianlanguage"
      },
      {
-          "name": "[TH]Show Grid More Info",
+          "name": "[TH]Show Grid More Info  | การแสดงผลเพิ่มเติม",
           "label": "Function,Usability,ExcludeRealmsHeaven,Non-Chinese",
           "url": "https://github.com/satosiki108/acs_show_grid_more_Info"
      },
@@ -103,7 +103,18 @@
           "name": "Elysium | 极乐世界",
           "label": "Function,Usability,Integrated",
           "url": "https://github.com/Jai-ACS/Mod-Elysium"
+     },
+     {
+          "name": "[TH]Well Prepared | เพิ่ม Prep ",
+          "label": "Function","Content","ExcludeRealmsHeaven","Non-Chinese","Usability","Non-Chinese",
+          "url": "https://github.com/satosiki108/acs_well_prepared"
+     },
+     {
+          "name": "[TH]Show Law Stats | แสดงความเข้ากันได้ ",
+          "label": "Function","Usability","Integrated","ExcludeRealmsHeaven","Non-Chinese",
+          "url": "https://github.com/satosiki108/acs_show_law_stats"
      }
 ]
+
 
 
