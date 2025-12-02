@@ -108,8 +108,10 @@
           "name": "ThreeKingdomsCharacter",
           "label": "OtherWorld,Reincarnation",
           "url": "https://github.com/kamalvnda/ThreeKingdomsCharacter"
-     }      
+     },
+     {
+          "name": "Show More Grid Info | 显示格子更多的信息",
+          "label": "Function,Usability,ExcludeRealmsHeaven",
+          "url": "https://github.com/Jai-ACS/Mod-ShowMoreGridInfo"
+     }
 ]
-
-
-
