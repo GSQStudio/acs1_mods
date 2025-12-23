@@ -125,6 +125,11 @@
           "url": "https://github.com/Jai-ACS/Mod-ShowSectPrices"
      },
      {
+          "name": "More Disciples | 提高弟子数量",
+          "label": "Function,Usability,ExcludeRealmsHeaven",
+          "url": "https://github.com/Jai-ACS/Mod-MoreDisciples"
+     },
+     {
           "name": "Unlock All Laws",
           "label": "Usability",
           "url": "https://github.com/kamalvnda/UnlockAllLaws"
